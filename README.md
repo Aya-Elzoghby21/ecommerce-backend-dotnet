@@ -152,13 +152,6 @@ You can test endpoints easily using:
 
 Swagger UI → https://localhost:7188/swagger
 
-Postman Collection (available in repo)
-
-💾 Database Backup
-
-A ready .bak file is included under:
-
-DatabaseBackup/ECommerceDB.bak
 
 👩‍💻 Author
 
